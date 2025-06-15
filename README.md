@@ -76,4 +76,4 @@ The model achieved an accuracy of over 99.9654666321333on the test dataset, demo
 
 # Conclusion
 
-his predictive maintenance classification model provides a reliable and accurate solution for identifying maintenance needs in advance, helping to reduce unplanned downtime and optimize operational efficiency.
+This predictive maintenance classification model provides a reliable and accurate solution for identifying maintenance needs in advance, helping to reduce unplanned downtime and optimize operational efficiency.
